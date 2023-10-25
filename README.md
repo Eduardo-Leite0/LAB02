@@ -1,2 +1,2 @@
 # Eduardo Leite
-HAHAHAHAHAHHAHAH :
+Laboratório 02-USF:Aula pratica do GIT, aprendendo comandos.
